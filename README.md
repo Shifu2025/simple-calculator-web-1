@@ -7,4 +7,4 @@ A beginner-friendly calculator website built with HTML, CSS, and JavaScript that
   
   
   
-                                         Your site is live at https://tunavdewangan24.github.io/simple-calculator-web-1/
+                                                                    https://tunavdewangan24.github.io/simple-calculator-web-1/
